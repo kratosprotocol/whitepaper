@@ -34,3 +34,36 @@ A limited number of participants affects the formation of blocks in the network 
 High cost of entry into the ranks of miners. If earlier it was possible to mine on a personal computer, today it has become an industrial business that consumes electricity, comparable to the needs of settlements.
 
 Future protocols should enable users with low computing power, including from mobile devices, to participate in the formation of the network. At the same time, participation in the formation of the network should be compensated. Including those users who did not participate in the processing of transactions and the formation of blocks, but distributed the network or solved the problem of scaling and maintaining the network online. This will be fair and allow for greater decentralization.
+
+<b>A trivial transactional model</b>
+
+Blockchain protocols of the first generation were created mainly for payments by the only digital asset - cryptocurrency. Others are designed for token issuance, exchange and exchange trading. The next generation of protocols is able to send any information in transactions (data transactions).
+
+The architecture of the protocols is not enough for the practical application of block technologies in finance, the public sector and state institutions and requires a completely new view of the transactional model.
+
+The creators of the new generation of protocols should approach systematically to the creation of a transactional model, taking into account the diversity of economic and social relations, as well as requirements for finiteness of calculations and withdrawal of transactions.
+
+<b>Cross-platform</b>
+
+Each created protocol is not designed for interaction with other protocols.
+This is solved by additional add-ons or platforms, where the re-tokenization of assets occurs. Re-tokenization of assets, which is performed through a centralized node, carries the risks of asset disappearance.  Other cross-Protocol services are centralized and have the risk of asset loss
+
+<b>Release of tokens</b>
+
+The issue of tokens in the existing protocols is either too complicated for the end user, or simple, but the issued token is severely limited in terms of parameters and network traffic opportunities.
+There is no option of giving the tokens a semantic and behavioral logic that approximates them to the usual financial instruments.
+
+<b>Smart contracts</b>
+
+Smart contracts are difficult to create, implement, and use, and too vulnerable. Their implementation requires resources. A new approach to development, debugging, and implementation in the network is needed. Only when simple smart contracts become available to the mass consumer, it will go into circulation and will be used and applied.  A jump in programmable logic on network nodes is needed.
+
+<b>High Volatility</b>
+
+Tokens have a deflationary nature, the volatility of which is not controlled. Blockchain protocols are not protected from speculators ' manipulation. There is no Central Issuer or regulator that has a clear and predictable monetary policy. There is no binding of the token to the value of an external asset. This is due to the decentralization of the network-the issuers are different nodes. The release of new coins to the market is clear and limited to a constant value.
+
+In the time range and the current rhythm of economic relations, new issues are not enough to close the demand for the token. There is uncontrolled growth of quotations that are attracted to this area speculators, which change the essence of the design of the token on the investment. New protocols should be much more flexible and understandable to users and investors, not have an investment character and be a tasty morsel for speculators. This does not mean that the token does not grow in price, but the price growth will not be avalanche-like. At the same time, it is necessary to find a solution to the problem that would not lead to a variant with a centralized Issuer.
+
+<b>Interoperability</b>
+
+Poor code quality and weak integration capabilities. This applies both to the culture of creating stable code and the application of standards for developing enterprise solutions, in which not only the solution is developed, but also security, functional, load, regression, validation, and so on.
+In addition to the server and client code is extremely important ecosystem development around the technology: libraries for integration, API, reference materials and documentation, examples, forums and developers chats. It is also important to create a modern and adequate support service.
